@@ -96,8 +96,7 @@ Si eres nuevo en el tema, te recomendamos este orden:
 
 1. **Lee este README** completo (5 min)
 2. **Abre el notebook** y ejecútalo celda por celda
-3. **Revisa los scripts** en `src/` para ver el código limpio y reutilizable
-4. **Experimenta**: cambia los porcentajes, usa tus propios datos
+3. **Experimenta**: cambia los porcentajes, usa tus propios datos
 
 ---
 
