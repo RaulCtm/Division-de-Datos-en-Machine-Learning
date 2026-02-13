@@ -42,14 +42,10 @@ data-split-ml/
 
 ---
 
-## 🧠 Conceptos que cubre este repositorio
+## 🧠 Conceptos
 
 | Concepto | Descripción | Archivo |
 |----------|-------------|---------|
-| División básica | Separar datos en train y test | `basic_split.py` |
-| División completa | Train + Validación + Test | `train_val_test_split.py` |
-| Estratificación | Para clases desbalanceadas | `stratified_split.py` |
-| Series temporales | División respetando el tiempo | `time_series_split.py` |
 | Tutorial completo | Todos los conceptos + visualizaciones | `notebook/` |
 
 ---
